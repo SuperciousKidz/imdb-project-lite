@@ -1,0 +1,24 @@
+.flex {
+    display: flex;
+    justify-content: center;
+    margin: 100px 0 0 0;
+}
+
+.images {
+    margin: 0 100px 0 0;
+}
+
+.title {
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: white;
+    text-align: center;
+    margin: 30px 0 0 0;
+}
+
+.info {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
